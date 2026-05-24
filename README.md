@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: VIJAYASHANKAR N
+### Register Number: 212225230301
+<img width="1912" height="867" alt="image" src="https://github.com/user-attachments/assets/1d890a42-d81f-4c3f-90f5-aaa8a7dfa259" />
+<img width="1917" height="857" alt="image" src="https://github.com/user-attachments/assets/ad0f4033-8225-4e17-b448-071d7ca43be1" />
+<img width="1890" height="777" alt="image" src="https://github.com/user-attachments/assets/20b7e7f2-ea26-483e-a4df-420cf923f0d4" />
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
